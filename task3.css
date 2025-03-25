@@ -1,0 +1,145 @@
+p{
+    margin:0;
+    background-color: #f9f9f9;
+}
+.p{
+    text-align: center;
+    position: relative;
+    right: 180px;
+    background-color: white;
+}
+.description{
+    /* text-align: right; */
+    margin:0;
+    background-color: white;
+    
+
+}
+.Measurement{
+    /* text-align:  right; */
+    font-weight: bold;
+    background-color:white;
+
+}
+button{
+    background-color: #28a745;
+    margin-top: 10px;
+    border-radius:5px;
+    font-size: 18px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    left: 600px;
+    
+
+}
+button:hover{
+    background-color: #218838;
+    text-align: center;
+}
+.box{
+    border: 3px solid black;
+    width: 70px;
+    position: relative;
+    left: 440px;
+}
+span{
+    color: gold;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    gap:100px;
+}
+.Brand{
+    text-align: center;
+    position: relative;
+    right: 180px;
+}
+h1{
+    text-align:center;
+    position: relative;
+    right: 180px;
+}
+h2{
+    text-align: center;
+    position: relative;
+    right:180px;
+}
+.color{
+    text-align: center;
+    position: relative;
+    right: 150px;
+    background-color: white;
+}
+.mrp{
+    text-align: center;
+    position: relative;
+    right: 265px;
+    background-color:white;
+}
+
+.Product details{
+    text-align: center;
+}
+.Size{
+    position: relative;
+    left: 440px;
+}
+.design{
+    font-weight: bold;
+    background-color: white;
+}
+.features{
+    background-color: white;
+}
+
+#reviews {
+    text-align: left;
+    
+}
+
+.review {
+    background: #f9f9f9;
+    background-color: white;
+
+    position: relative;
+    left:440px;
+    
+}
+
+
+
+h3{
+    background-color: white;
+    position: relative;
+    left:440px;
+}
+.c1{
+    background-color: white;
+
+}
+.c2{
+    background-color: white;
+
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background: #333;
+    color: white;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
